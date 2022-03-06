@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/86432651/156904658-85eea25c-693f-429f-abaa-b904df7050d9.png" width="600px" />
 
 <p>Aqui está o resultado compilado:</p>
-<img src="https://user-images.githubusercontent.com/86432651/156904725-87b07ac2-e9c2-4819-a500-71ebe78b2fe9.png" width="600px" />
+<img src="https://user-images.githubusercontent.com/86432651/156904725-87b07ac2-e9c2-4819-a500-71ebe78b2fe9.png" width="850px" />
 
 
 ## Questão 02
@@ -38,7 +38,7 @@ Aqui está o código da função:<br>
 <img src="https://user-images.githubusercontent.com/86432651/156904803-26bdf514-fc6d-40a5-8a25-dabe98916eca.png" width="600px" />
 
 <p>Aqui está o resultado compilado:</p>
-<img src="https://user-images.githubusercontent.com/86432651/156904841-de5af6db-7d7b-443a-856d-160e3f088cc6.png" width="600px" />
+<img src="https://user-images.githubusercontent.com/86432651/156904841-de5af6db-7d7b-443a-856d-160e3f088cc6.png" width="850px" />
 
 
 ## Questão 03
@@ -52,10 +52,10 @@ Aqui está o código da função:<br>
 <p>Aqui está o código de teste:</p>
 <img src="https://user-images.githubusercontent.com/86432651/156904924-f9318ff1-0cc4-4fa2-8a16-cc99ef206699.png" width="600px" />
 
-<p>Aqui está a funções main:</P.
+<p>Aqui está a funções main:</P>
 <img src="https://user-images.githubusercontent.com/86432651/156904954-7b441380-4a57-41a8-b073-9833e6495c12.png" width="600px" />
 
 <p>Aqui está o resultado compilado:</p>
-<img src="https://user-images.githubusercontent.com/86432651/156904994-032e9570-a0ae-4a8a-9fa4-7f620b7305a1.png" width="600px" />
+<img src="https://user-images.githubusercontent.com/86432651/156904994-032e9570-a0ae-4a8a-9fa4-7f620b7305a1.png" width="850px" />
 
 
